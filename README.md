@@ -1,9 +1,13 @@
 Hi 👋 My name is Mahmudul Hasan
 ===============================
+Software Engineer
+-----------------
 
-* 🌍  I'm based in New York
+I am a young ambitious adult. From a young age I was fascinated with applications, technology, and business. I have a passion for technological and business innovations. My goal is to pursue my passion and one day create a product where I can combine both into a reality.
+
+* 🌍  I'm based in New York City
 * ✉️  You can contact me at [mahmudul4155@gmail.com](mailto:MAHMUDUL4155@GMAIL.COM)
-* 🧠  I'm learning React and Node
+* 🧠  I'm learning React, Node, and refining my skills of mern stack
 * ⚡  I am a huge sports fan
 
 ### Skills
@@ -17,7 +21,3 @@ Hi 👋 My name is Mahmudul Hasan
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/moody415" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mahmudul-hasan4/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/mahmudul"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>

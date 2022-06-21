@@ -2,7 +2,7 @@ Hi 👋 My name is Mahmudul Hasan
 ===============================
 
 * 🌍  I'm based in New York
-* ✉️  You can contact me at [MAHMUDUL4155@GMAIL.COM](mailto:MAHMUDUL4155@GMAIL.COM)
+* ✉️  You can contact me at [mahmudul4155@gmail.COM](mailto:MAHMUDUL4155@GMAIL.COM)
 * 🧠  I'm learning React and Node
 * ⚡  I am a huge sports fan
 

@@ -3,8 +3,7 @@ Hi 👋 My name is Mahmudul Hasan
 Software Engineer
 -----------------
 
-I am a young ambitious adult. From a young age I was fascinated with applications, technology, and business. I have a passion for technological and business innovations. My goal is to pursue my passion and one day create a product where I can combine both into a reality. Everyday I am striving closer and closer to that goal!
-
+I am a young ambitious adult. From a young age I was fascinated with applications, technology, and business. I have a passion for technological and business innovations. My goal is to pursue my passion and one day create a product where I can combine both into a live product.
 * 🌍  I'm based in New York City
 * ✉️  You can contact me at [mahmudul8522@gmail.com](mailto:MAHMUDUL8522@GMAIL.COM)
 * 🧠  I'm learning React, Node, and refining my skills of Mern Stack
